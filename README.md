@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
+- 📝 Kaggle Notebook Expert [Link: Kaggle Profile](https://www.kaggle.com/moizkhan11)
+  
 - 📝 I regularly write articles on [https://medium.com/@moizkhan.42301](https://medium.com/@moizkhan.42301)
 
 - 💬 Ask me about **Machine Learning, Natural Language Processing, Python**

@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moiz-khan&label=Profile%20views&color=0e75b6&style=flat" alt="moiz-khan" /> </p>
 
-- 🔭 I’m currently a student of **MS in AI**
+- 🔭 I’m currently a student of **MS in AI @ Brandenburg University of Technology (BTU) Cottbus-Senftenberg**
 
 - 🌱 I’m currently learning **Natural Language Processing**
 

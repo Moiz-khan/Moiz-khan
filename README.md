@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **Machine Learning, Natural Language Processing, Python**
 
-- 📫 How to reach me **moizkhan.42301@gmail.com**
+- 📫 How to reach me **iammoizullahkhan@gmail.com**
 
-- ⚡ Fun fact **Loves Development**
+- ⚡ Fun fact **Loves to Automate Stuff and Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

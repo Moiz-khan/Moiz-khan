@@ -1,36 +1,59 @@
-[![MasterHead](https://s40424.pcdn.co/in/wp-content/uploads/2022/10/What-is-M.Tech-in-Artificial-Intelligence_AI.jpg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Moiz Khan</h1>
-<h3 align="center">A passionate Data Science practioner</h3>
-<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
+### Hi, I'm Moiz 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moiz-khan&label=Profile%20views&color=0e75b6&style=flat" alt="moiz-khan" /> </p>
+Software Engineer with 2 years of backend experience, now doing an MSc in
+Artificial Intelligence in Germany — I build products where the two meet:
+backend systems with real AI/LLM integration.
 
-- 🔭 I’m currently a student of **MS in AI @ Brandenburg University of Technology (BTU) Cottbus-Senftenberg**
+- 🎓 MSc Artificial Intelligence @ Brandenburg University of Technology (BTU) Cottbus-Senftenberg
+- 💼 2 years backend engineering (Django, DRF, FastAPI, SQL) — most recently at Avialdo Solutions
+- 🔭 Currently building FastAPI services with LLM integrations
+- 🌱 Learning: transformer fine-tuning, production ML deployment
+- 📫 iammoizullahkhan@gmail.com · [LinkedIn](https://www.linkedin.com/in/iammoizkhan/) · [Kaggle](https://www.kaggle.com/moizkhan11)
 
-- 🌱 I’m currently learning **Natural Language Processing**
+---
 
-- 📝 Kaggle Notebook Expert [Link: Kaggle Profile](https://www.kaggle.com/moizkhan11)
-  
-- 📝 I regularly write articles on [https://medium.com/@moizkhan.42301](https://medium.com/@moizkhan.42301)
+### Featured Projects
 
-- 💬 Ask me about **Machine Learning, Natural Language Processing, Python**
+**[Idea-To-Business-Pitch](https://github.com/Moiz-khan/Idea-To-Business-Pitch)**
+FastAPI backend integrating an LLM with structured prompt engineering to
+generate business pitches. React/TypeScript frontend. Deployed live — backend
+on Hugging Face Spaces, frontend on Vercel.
+🔗 [Live demo](https://idea-to-business-pitch.vercel.app/)
 
-- 📫 How to reach me **iammoizullahkhan@gmail.com**
+**[Django_WebDev](https://github.com/Moiz-khan/Django_WebDev)**
+Django + DRF backend projects: CRUD application, data-driven admin dashboard,
+and a multi-model e-commerce backend.
 
-- ⚡ Fun fact **Loves to Automate Stuff and Development**
+**[ml-notebooks](https://github.com/Moiz-khan/ml-notebooks)**
+Applied ML work: fine-tuned DistilBERT for text classification, a
+cross-validated regression pipeline (Kaggle 30 Days of ML, top 22%), a
+dynamic pricing model (Sastaticket.pk Datathon, 2nd Runner-Up), and a
+content-based movie recommender.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/moiz-khan-801bb9153/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moiz-khan-801bb9153/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/moizkhan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/moizkhan11" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/smartmoeez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/smartmoeez" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+### Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moiz-khan&show_icons=true&locale=en&layout=compact" alt="moiz-khan" /></p>
+**Backend**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-blue?style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moiz-khan&show_icons=true&locale=en" alt="moiz-khan" /></p>
+**Data & Infra**
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moiz-khan&" alt="moiz-khan" /></p>
+**AI / ML**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-🤗%20HuggingFace-yellow?style=flat)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moiz-khan&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moiz-khan&layout=compact&hide_border=true)

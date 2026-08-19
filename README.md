@@ -1,7 +1,7 @@
 ### Hi, I'm Moiz 👋
 
 Software Engineer with 2 years of backend experience, now doing an MSc in
-Artificial Intelligence in Germany — I build products where the two meet:
+Artificial Intelligence in Germany. I build products where the two meet:
 backend systems with real AI/LLM integration.
 
 - 🎓 MSc Artificial Intelligence @ Brandenburg University of Technology (BTU) Cottbus-Senftenberg

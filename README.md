@@ -7,7 +7,7 @@ backend systems with real AI/LLM integration.
 - 🎓 MSc Artificial Intelligence @ Brandenburg University of Technology (BTU) Cottbus-Senftenberg
 - 💼 2 years backend engineering (Django, DRF, FastAPI, SQL) — most recently at Avialdo Solutions
 - 🔭 Currently building FastAPI services with LLM integrations
-- 🌱 Learning: transformer fine-tuning, production ML deployment
+- 🌱 Learning: transformer, RAG, fine-tuning, production ML deployment
 - 📫 iammoizullahkhan@gmail.com · [LinkedIn](https://www.linkedin.com/in/iammoizkhan/) · [Kaggle](https://www.kaggle.com/moizkhan11)
 
 ---

@@ -8,7 +8,7 @@ backend systems with real AI/LLM integration.
 - 💼 2 years backend engineering (Django, DRF, FastAPI, SQL) — most recently at Avialdo Solutions
 - 🔭 Currently building FastAPI services with LLM integrations
 - 🌱 Learning: transformer, RAG, fine-tuning, production ML deployment
-- 📫 iammoizullahkhan@gmail.com · [LinkedIn](https://www.linkedin.com/in/iammoizkhan/) · [Kaggle](https://www.kaggle.com/moizkhan11)
+- 📫 iammoizullahkhan@gmail.com · [LinkedIn](https://www.linkedin.com/in/iammoizkhan/) · [Kaggle](https://www.kaggle.com/moizkhan11) [Know More About Me](https://iammoiz.vercel.app/)
 
 ---
 
